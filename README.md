@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am ambitious professional with innovation, proficiency and extensive website development experience of 9+ years. I thrive in high-pressure and fast-paced situations, my leadership and interpersonal talents have supported my professional growth. My determination to continuously grow has allowed me to be well-versed in the latest technologies.
 
-- 🔭 I’m currently working on Hionco, Xioki, Acquis Compliance.
+- 🔭 I’m currently working on projects using Vue, React, React Native, Fastify and MongoDB.
 - 🌱 I’m currently learning FastAPI with Python.
 - 💬 Ask me about UI/UX, Frontend Frameworks and Libraries (Vue, Angular, React etc.), NodeJS, Python, MongoDB etc.
 - 📫 How to reach me: mail@samita.in
